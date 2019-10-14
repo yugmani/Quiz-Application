@@ -1,0 +1,87 @@
+html body {
+    margin:0px;
+    padding:0px;
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width:80%;
+    height:420px;
+    text-align: center;
+    background-color: rgb(59, 41, 41);
+    margin:20px auto;
+    padding:25px;
+    color:rgb(202, 202, 214);
+    opacity: 0.7;
+}
+
+.content {
+    width:85%;
+    height:80%;
+    text-align:left;
+    margin:25px auto; 
+    padding:30px;
+    background-color:silver;
+    color:black;
+}
+
+
+.gutt {
+    width:200px;
+    height:200px;
+    margin:20px auto;
+   
+    vertical-align:top;
+    text-align: center;
+    border-radius:50%;
+    padding: 65px 10px 65px 10px;
+    /*position:relative;*/
+    color:white;
+    clear:both;
+    background-color: crimson;
+}
+
+.core {
+    margin: 15px;
+    padding: 5px auto;
+    color:whitesmoke;
+}
+
+.start {
+    width:200px;
+    height:200px;
+    text-align: center;
+    vertical-align: middle;
+    margin:120px auto;
+    padding: 65px 10px 65px 10px;
+    background-color: rgb(158, 41, 41);
+    color:white;
+    border-radius: 50%;
+    font-size:30px;
+}
+
+.dutt {
+    width:100px;
+    height:auto;
+    margin:5px;
+    padding:5px;
+    text-align: center;
+    position:relative;
+    float:right;
+    color:white;
+    background-color: red;
+}
+
+.msg {
+    width:300px;
+    height:200px;
+    margin:130px auto;
+    vertical-align: middle;
+    text-align: center;
+    padding:40px;
+    color:white;
+    border:2px yellow solid;
+    border-radius: 10%;
+    background-color: green;
+}
